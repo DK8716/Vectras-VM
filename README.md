@@ -1,12 +1,11 @@
 WARNING!
 Due server maintenance you can use this backup repo: https://github.com/DK8716/Vectras-VM.git
 
+![1000053213](https://github.com/user-attachments/assets/7423fd7c-f6ed-4e24-a410-89524764e54b)
 
 
 Vectras VM
-Ceasefire Now
-
-Telegram Channel Latest Version Software License
+Latest Version Software License
 
 Welcome to Vectras VM! A virtual machine app for Android based on QEMU that let you emulate various OS including: Windows, MacOS, Linux and Android.
 
